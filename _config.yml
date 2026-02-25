@@ -1,0 +1,5 @@
+title: IceBackup
+description: Proxmox Backup Strategy - PBS + ABB on Synology
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
